@@ -1,5 +1,19 @@
-# homework
-01 HTML CSS Git: Code Refactor.
-Refactored webpage to make it more accessible.
-Descriptions of the changes are in the source comments.
-Consolidated css selectors that had duplicate properties.
+# Vanderbilt Coding Bootcamp homework assignment #1
+
+
+## Notes
+
+- Task was to refactor code
+- Added comments in html and css
+- added alt tags to imgs
+- Made divs more accessible by changing to section, article, aside
+
+
+# Screenshots
+
+![Index](assets/images/brand-awareness.png)
+![Contact](assets/images/cost-management.png)
+![Portfolio](assets/images/lead-generation.png)
+
+
+
